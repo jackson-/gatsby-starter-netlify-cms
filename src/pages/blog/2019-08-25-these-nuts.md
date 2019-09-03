@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: These nuts!
+title: FakePost
 date: 2019-08-25T23:53:07.271Z
-description: More about these nuts!!!
+description: The fakest post
 featuredpost: true
 featuredimage: /img/tutorials.png
 tags:
@@ -10,4 +10,4 @@ tags:
   - but wtf
   - asdasd
 ---
-Like really these nuts!!!!!!!!!!!!
+Super fake
